@@ -1,7 +1,8 @@
 Please take a look for my homework's task. It consists of three components. 
 You can find also flexbox (I use it as CSS file and also as React Native in both way).
-About Json data which you send me, unfortunately I have to remove first line ("exec_time": 0.11) because JSON showed as the mistake/ bug.
+About Json data which you send me, unfortunately I have to remove first line ("exec_time": 0.11) because JSON showed as the mistake/ bug this line.
 I hope that in spite of it, Table will be readable.
+From additional task, there you can find options with descriptions from JSON datas.
 Thanking in advance
 
 # Getting Started with Create React App
